@@ -1,2 +1,3 @@
 # Ai_joruney
-My journey through studying AI
+showcasing my journey thorugh AI....
+
